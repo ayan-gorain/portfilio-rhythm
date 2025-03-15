@@ -8,3 +8,13 @@ assets/images/*
 *.webp
 *.bmp
 *.tiff
+
+# Ignore all images
+assets/images/*.jpg
+assets/images/*.jpeg
+assets/images/*.png
+assets/images/*.gif
+assets/images/*.svg
+assets/images/*.webp
+assets/images/*.bmp
+assets/images/*.tiff
