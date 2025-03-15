@@ -1,0 +1,10 @@
+assets/images/*
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.bmp
+*.tiff
